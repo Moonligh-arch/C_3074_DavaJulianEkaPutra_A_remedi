@@ -1,6 +1,6 @@
 ﻿# Remedi PBO Tipe A
 
-Implementasi tugas remedi Pemrograman Berorientasi Objek
+tugas remedi Pemrograman Berorientasi Objek
 menggunakan C#.
 
 Nama: Dava Julian Eka Putra
